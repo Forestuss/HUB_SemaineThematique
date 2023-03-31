@@ -111,7 +111,7 @@
             {
                 "type": "UnityEngine.ProBuilder.SelectMode, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "editor.selectMode",
-                "value": "{\"m_Value\":1}"
+                "value": "{\"m_Value\":4}"
             },
             {
                 "type": "UnityEngine.ProBuilder.SelectMode, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -121,7 +121,7 @@
             {
                 "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "ShapeBuilder.ActiveShapeIndex",
-                "value": "{\"m_Value\":7}"
+                "value": "{\"m_Value\":2}"
             },
             {
                 "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -141,7 +141,7 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize",
-                "value": "{\"m_Value\":{\"x\":-6.785021781921387,\"y\":1.981887698173523,\"z\":0.6747474670410156}}"
+                "value": "{\"m_Value\":{\"x\":1.8322601318359376,\"y\":0.2783927917480469,\"z\":0.5988175272941589}}"
             },
             {
                 "type": "UnityEngine.Quaternion, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
